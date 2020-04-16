@@ -18,7 +18,15 @@ def game_hash {
        :Steals => 3
        :Blocks => 1
        :Slam_Dunks => 1},
-      {
+      {:player_name => "Reggier Evans"
+       :Number => 30
+       :Shoe => 14
+       :Points => 12
+       :Rebounds => 12
+       :Assists => 12
+       :Steals => 12
+       :Blocks => 12
+       :Slam_Dunks => 7}
       
       ]
       
