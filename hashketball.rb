@@ -10,14 +10,15 @@ def game_hash {
     
     :players => [ 
       {:player_name => "Alan Anderson"
-       :Number => "0"
-       :Shoe => "16"
-       :Points => "22"
-       :Rebounds =""
-       :Assists
-       :Steals
-       :Blocks
-       :Slam_Dunks
+       :Number => 0
+       :Shoe => 16
+       :Points => 22
+       :Rebounds => 12
+       :Assists => 12
+       :Steals => 3
+       :Blocks => 1
+       :Slam_Dunks => 1},
+      {
       
       ]
       
