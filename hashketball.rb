@@ -26,7 +26,16 @@ def game_hash {
        :Assists => 12
        :Steals => 12
        :Blocks => 12
-       :Slam_Dunks => 7}
+       :Slam_Dunks => 7},
+       {:player_name => "Brooke Lopez"
+       :Number => 11
+       :Shoe => 17
+       :Points => 17
+       :Rebounds => 19
+       :Assists => 10
+       :Steals => 3
+       :Blocks => 1
+       :Slam_Dunks => 15},
       
       ]
       
