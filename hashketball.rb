@@ -2,7 +2,7 @@
 
 #note to self = different use of :name vs name: vs "name" =>
 
-def game_hash =
+def game_hash 
   {home: {
       team_name: "Brooklyn Nets",
       colors: ["Black", "White"],
