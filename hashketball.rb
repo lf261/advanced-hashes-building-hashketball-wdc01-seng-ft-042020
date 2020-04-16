@@ -9,7 +9,7 @@ def game_hash {
       
     
     :players => [ 
-      :player_name
+      {:player_name
       
       ]
       
