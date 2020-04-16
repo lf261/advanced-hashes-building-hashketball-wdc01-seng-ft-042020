@@ -8,54 +8,54 @@ def game_hash {
     
     :players => [ 
       {:player_name => "Alan Anderson"
-       :Number => 0
-       :Shoe => 16
-       :Points => 22
-       :Rebounds => 12
-       :Assists => 12
-       :Steals => 3
-       :Blocks => 1
-       :Slam_Dunks => 1},
+       :number => 0
+       :shoe => 16
+       :points => 22
+       :rebounds => 12
+       :assists => 12
+       :steals => 3
+       :blocks => 1
+       :slam_dunks => 1},
        
       {:player_name => "Reggier Evans"
-       :Number => 30
-       :Shoe => 14
-       :Points => 12
-       :Rebounds => 12
-       :Assists => 12
-       :Steals => 12
-       :Blocks => 12
-       :Slam_Dunks => 7},
+       :number => 30
+       :shoe => 14
+       :points => 12
+       :rebounds => 12
+       :assists => 12
+       :steals => 12
+       :blocks => 12
+       :slam_dunks => 7},
        
        {:player_name => "Brooke Lopez"
-       :Number => 11
-       :Shoe => 17
-       :Points => 17
-       :Rebounds => 19
-       :Assists => 10
-       :Steals => 3
-       :Blocks => 1
-       :Slam_Dunks => 15},
+       :number => 11
+       :shoe => 17
+       :points => 17
+       :rebounds => 19
+       :assists => 10
+       :steals => 3
+       :blocks => 1
+       :slam_dunks => 15},
        
        {:player_name => "Mason Plumlee"
-       :Number => 1
-       :Shoe => 19
-       :Points => 26
-       :Rebounds => 11
-       :Assists => 6
-       :Steals => 3
-       :Blocks => 8
-       :Slam_Dunks => 5},
+       :number => 1
+       :shoe => 19
+       :points => 26
+       :rebounds => 11
+       :assists => 6
+       :steals => 3
+       :blocks => 8
+       :slam_dunks => 5},
        
        {:player_name => "Jason Terry"
-       :Number => 31
-       :Shoe => 15
-       :Points => 19
-       :Rebounds => 2
-       :Assists => 2
-       :Steals => 4
-       :Blocks => 11
-       :Slam_Dunks => 1}
+       :number => 31
+       :shoe => 15
+       :points => 19
+       :rebounds => 2
+       :assists => 2
+       :steals => 4
+       :blocks => 11
+       :slam_dunks => 1}
       
       ]
       
